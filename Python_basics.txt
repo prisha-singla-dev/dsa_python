@@ -1,0 +1,6 @@
+
+Loops-
+- for loops- 
+for i in range (0,x):
+    print(i);
+
