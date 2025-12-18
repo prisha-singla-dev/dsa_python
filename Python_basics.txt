@@ -4,3 +4,14 @@ Loops-
 for i in range (0,x):
     print(i);
 
+//add elements in the another array
+for i in range (0, d):
+    temp.append(arr[i])
+
+
+rotated_arr = arr[d:]+arr[:d]
+//after d elements first and then before d elements
+
+
+
+
