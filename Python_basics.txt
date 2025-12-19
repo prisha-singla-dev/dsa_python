@@ -4,6 +4,9 @@ Loops-
 for i in range (0,x):
     print(i);
 
+i in range (n-1,0,-1):
+//range(start, stop, step)
+
 //add elements in the another array
 for i in range (0, d):
     temp.append(arr[i])
