@@ -15,6 +15,19 @@ for i in range (0, d):
 rotated_arr = arr[d:]+arr[:d]
 //after d elements first and then before d elements
 
+def union_sorted_array(arr1,arr2):
+    # Brute Force Approach
+    return sorted(set(arr1) | set(arr2))
+// | - UNION OPERATOR
+// set - stores unique elements
+
+
+return sorted(set(arr1) & set(arr2))
+// & - intersection 
+
+
+    visited = [0]*m
+this means 0* in m no. of elements
 
 
 
