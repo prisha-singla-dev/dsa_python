@@ -17,7 +17,13 @@ def find_missing_numbers(arr, n):
     # for i in range(n + 1):
     #     if i not in s:
     #         return i
-        
+    # Time Complexity: O(n), Space Complexity: O(n)
+
+    # Optimal Approach-1 Using Sum Formula
+    # total = n * (n + 1) // 2
+    # sum_of_array = sum(arr)
+    # return total - sum_of_array
+    # Time Complexity: O(n), Space Complexity: O(1)
 
     # Optimal Approach-2 Using XOR
     n = len(arr)

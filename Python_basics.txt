@@ -30,4 +30,14 @@ return sorted(set(arr1) & set(arr2))
 this means 0* in m no. of elements
 
 
+MAPS 
+num_map = {}
+    for i, num in enumerate(nums):
+        complement = target - num
+        if complement in num_map:
+            return (num_map[complement], i)
+        num_map[num] = i
+    return None
 
+
+enumerate() - It gives you index + value together while looping.
