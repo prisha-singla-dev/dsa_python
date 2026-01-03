@@ -1,0 +1,9 @@
+Interview Tip
+
+If you hear:“anagram”, “same characters”, “frequency”
+🚨 Your brain should scream: COUNT CHARACTERS
+
+If the problem says:“Linear runtime preferred”
+👉 Immediately think: Hashing / Set
+
+

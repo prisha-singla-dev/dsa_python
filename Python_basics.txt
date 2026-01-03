@@ -40,4 +40,8 @@ num_map = {}
     return None
 
 
-enumerate() - It gives you index + value together while looping.
+enumerate() - It gives you index + value together while looping.\
+
+set - only unique values
+
+Counter is just a ready-made frequency counter->character → how many times it appears

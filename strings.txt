@@ -1,0 +1,24 @@
+A string is just a sequence of characters.
+s = "cat"
+
+Think of it like a list:
+c   a   t
+0   1   2
+
+You can:
+-loop over it
+-compare characters
+-count characters
+
+
+Two words are anagrams if:
+they use the same letters
+the same number of times
+order does NOT matter
+
+Example:
+s = "listen"
+t = "silent"
+
+Rule 1 - check length ; if length diff - no anagram
+Counter is just a ready-made frequency counter->character → how many times it appears

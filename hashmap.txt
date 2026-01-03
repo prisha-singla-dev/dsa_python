@@ -1,0 +1,2 @@
+A hashmap (dictionary) is just:
+character → how many times it appears
