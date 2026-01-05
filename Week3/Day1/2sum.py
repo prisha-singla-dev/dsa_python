@@ -21,6 +21,7 @@ def two_sum(nums, target):
     return None
     # TC - O(n) ; SC - O(n)
     # Real-world use: Exactly how your cache works!
+    # Interview talking point:I used this exact pattern in my Cost Firewall cache implementation"
 
 if __name__ =="__main__":
     nums = [2,7,11,15]
