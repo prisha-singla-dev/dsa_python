@@ -6,4 +6,7 @@ If you hear:“anagram”, “same characters”, “frequency”
 If the problem says:“Linear runtime preferred”
 👉 Immediately think: Hashing / Set
 
+Interview talking point:
+# "I used this exact pattern in my Cost Firewall cache implementation"
+
 
